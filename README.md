@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ники-ни-a63130245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ники-ни-a63130245/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikolay-nikolaev-a63130245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ники-ни-a63130245/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14550167/niki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14550167/niki" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nikolainikolaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nikolainikolaev" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/@nisanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@nisanx" height="30" width="40" /></a>
