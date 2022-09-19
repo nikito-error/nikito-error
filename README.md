@@ -3,7 +3,7 @@
 
 - 🔭 About me: </br>**Currently, I have completed my bachelor's degree at Technical University in Varna. The specialty I practiced was Software and Internet Technologies. I spent 4 years learning different technologies and languages. Despite all the knowledge, I continue to constantly learn new and new things. One person should always learn and develop through all of his life.</br> More details are in my CV.**
 
-- 🌱 I’m currently learning **Spring boot, Competitive programming tasks.**
+- 🌱 I’m currently learning **Spring, Competitive programming tasks.**
 
 - 👨‍💻 What I'm searching for: </br> **At the moment, I'm unemployed and trying to get into the backend development field.</br> So i practice every single day very hard. I will do my best to achieve my dreams.**
 
