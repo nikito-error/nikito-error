@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring, Competitive programming tasks.**
 
-- 👨‍💻 What I'm searching for:   **At the moment, I'm working for Broadcom Inc. **
+- 👨‍💻 What I'm searching for:   **At the moment, I'm working for Broadcom Inc.**
 
 - ⚡ About my applications:</br> **Created utilities for supporting software development procedures.</br>Participated in understanding of latest industry trends. </br>Formulated requirements and designed advanced technology projects.</br> Designed and developed C, C++, Java and iOS apps.</br> Developed and updated software requirements, documents and validation processes.</br> Prepared and modified software testing processes and reports.</br> Provided technical guidance during designing and code reviews. </br> Conducted unit and regression testing and maintained test automation.**
 
