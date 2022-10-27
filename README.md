@@ -9,7 +9,7 @@
 I was in one, two companies, albeit for a short time, and I realized that money is not the most important thing, but people's attitude.<br>
 I hope to contact with me only firms with good attitude and respect to newcomers.**
 
-- ⚡ About my applications:</br> **Created utilities for supporting software development procedures.</br>Participated in understanding of latest industry trends. </br>Formulated requirements and designed advanced technology projects.</br> Designed and developed Java, C#, C++ and iOS apps.</br> Developed and updated software requirements, documents and validation processes.</br> Prepared and modified software testing processes and reports.</br> Provided technical guidance during designing and code reviews.**
+- ⚡ About my applications:</br> **Created utilities for supporting software development procedures.</br>Participated in understanding of latest industry trends. </br>Formulated requirements and designed advanced technology projects.</br> Designed and developed Java, C#, C++ apps.</br> Developed and updated software requirements, documents and validation processes.</br> Prepared and modified software testing processes and reports.</br> Provided technical guidance during designing and code reviews.**
 
 - 📫 How to reach me **nikolaynikolaev9933@gmail.com**
 
