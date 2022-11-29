@@ -3,11 +3,15 @@
 
 - 🔭 About me: </br>**Currently, I have completed my bachelor's degree at Technical University in Varna. The specialty I practiced was Software and Internet Technologies. I spent 4 years learning different technologies and languages. Despite all the knowledge, I continue to constantly learn new and new things. One person should always learn and develop through all of his life.</br> More details are in my CV.**
 
-- 🌱 I’m currently learning **Full-Stack development. Back-end with java and front-end with typescript and angular framework**
+- 🌱 I’m currently learning: **new technologies and languages 🤣**
 
 - 👨‍💻 What I'm searching for:   **At the moment, I'm unemployed. I'm looking for a friendly corporation with good people.</br>**
 
-- ⚡ About my applications:</br> **Created utilities for supporting software development procedures.</br>Participated in understanding of latest industry trends. </br>Formulated requirements and designed advanced technology projects.</br> Designed and developed Java, C#, C++ apps.</br> Developed and updated software requirements, documents and validation processes.</br> Prepared and modified software testing processes and reports.</br> Provided technical guidance during designing and code reviews.**
+- 🌐 About my applications:</br> **Created utilities for supporting software development procedures.</br>Participated in understanding of latest industry trends. </br>Formulated requirements and designed advanced technology projects.</br> Designed and developed Java, C#, C++ apps.</br> Developed and updated software requirements, documents and validation processes.</br> Prepared and modified software testing processes and reports.</br> Provided technical guidance during designing and code reviews.**
+
+- 🥅 2023 Goals: **I wish learn more technologies and become a pro of competitive programming**.
+
+- ⚡ Hobbies: **gaming, listening music and going outside walk in the nature**.
 
 - 📫 How to reach me **nikolaynikolaev9933@gmail.com**
 
