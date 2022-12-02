@@ -13,7 +13,9 @@
 
 - ⚡ Hobbies: **gaming, listening music and going outside walk in the nature**.
 
-- 📫 How to reach me **nikolaynikolaev9933@gmail.com**
+- 📫 How to reach me: **nikolaynikolaev9933@gmail.com**
+- 📫 Or reach me at: **nisanx@abv.bg**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
